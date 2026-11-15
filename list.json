@@ -1,8 +1,8 @@
 [
   {
     "uuid": "09045692-bd14-41db-bde0-546da0482ca3",
-    "exam_ticket": "",
-    "status": "pending",
-    "room_code": ""
+    "exam_ticket": "1200000001",
+    "status": "assigned",
+    "room_code": "2"
   }
 ]
